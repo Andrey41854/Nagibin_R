@@ -25,7 +25,7 @@
 
 ### Шаг 2. Создание репозитория на GitHub
 
-![](https://github.com/Andrey41854/Nagibin_R/blob/main/Lab0/IMG/1.png)
+![](https://github.com/Andrey41854/Nagibin_R/blob/main/Lab0/IMG/2.png)
 
 ### Шаг 3. Оформить отчет в соотвествии с шаблоном. Отчет может содержать код.
 
