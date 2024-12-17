@@ -22,11 +22,9 @@
 2.  Выполнение заданий
 3.  Подготовить отчёт
 
-## Содержание ЛР
+## Содержание Работы
 
-### Шаг 1
-
-Скачивание файла с данными:
+### Шаг 1 Скачивание файла с данными:
 
 ``` r
 #download.file('https://storage.yandexcloud.net/arrow-datasets/tm_data.pqt', destfile = "tm_data.pqt")
