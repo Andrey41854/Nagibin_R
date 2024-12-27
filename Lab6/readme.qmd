@@ -57,7 +57,7 @@ format:
 
 ![](https://github.com/Andrey41854/Nagibin_R/blob/main/Lab6/img/6.png)
 
-[Ссылка на дашборд:](https://datalens.yandex.cloud/g2zah7myqegy3-nagibin-dashbord)
+[Ссылка на дашборд](https://datalens.yandex.cloud/g2zah7myqegy3-nagibin-dashbord)
 
 ## Оценка результата
 
